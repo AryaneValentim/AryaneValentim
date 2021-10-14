@@ -7,7 +7,7 @@
 <p> 
  ✨ Eu sou a Aryane Valentim <br />
  🌱 Estou estudando atualmente Java Web Full-Stack <br />
- 📚 Atualmente bolsista de iniciação científica CNPq 
+ 📚 Sou bolsista de iniciação científica CNPq 
 </p>
 
 ## ⚡ Meu Github Status
