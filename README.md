@@ -5,9 +5,9 @@
   </div>
 
 <p> 
- ✨ Eu sou a Aryane Valentim <br />
- 🌱 Estou estudando atualmente Java Web Full-Stack <br />
- 📚 Sou bolsista de iniciação científica CNPq 
+ ✨ Me chamo Aryane Valentim <br />
+ 🌱 Estou estudando e trabalhando atualmente com Spring (Java) e Angular (JavaScript). <br />
+ 📚 Fui bolsista de iniciação científica CNPq 
 </p>
 
 ## ⚡ Meu Github Status
