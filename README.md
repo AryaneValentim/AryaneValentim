@@ -33,11 +33,11 @@
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-      <a href="https://getbootstrap.com" target="_blank"> <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/> </a> 
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  angular
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> docker
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> vscode
-      <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> git
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/> </a> 
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> </a>  angular
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> docker
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/> </a> vscode
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> git
   </p>
 </div>
 
