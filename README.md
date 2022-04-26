@@ -10,14 +10,6 @@
  📚 Fui bolsista de iniciação científica CNPq na área de Microeletrônica.
 </p>
 
-## ⚡ Meu Github Status
-
-
-  <br/>
-    <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=AryaneValentim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Mais usado" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaneValentim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
 ## 🚀 Linguagens e ferramentas:
 <div class="d-flex justify-content-between"> 
   <p align="left"> 
@@ -28,6 +20,14 @@
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
   </p>
 </div>
+
+## ⚡ Meu Github Status
+
+
+  <br/>
+    <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=AryaneValentim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Mais usado" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaneValentim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   
  <div> 
    <a href = "mailto:aryanevalentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
