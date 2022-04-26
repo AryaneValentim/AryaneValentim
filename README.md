@@ -35,9 +35,9 @@
       <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/> </a>  angular
-      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> docker
-      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/> </a> vscode
-      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> git
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> 
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></a> 
+      <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> 
   </p>
 </div>
 
