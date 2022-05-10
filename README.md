@@ -6,7 +6,7 @@
 
 <p> 
  ✨ Me chamo Aryane Valentim  <br />
- 🌱 Estou estudando e trabalhando atualmente com Spring (Java) e Angular (JavaScript). <br />
+ 🌱 Estudo e trabalho atualmente com Spring Boot(Java) e Angular (TypeScript). <br />
  📚 Fui bolsista de iniciação científica CNPq em 2021 e 2022 na área de Microeletrônica.
 </p>
 
