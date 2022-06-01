@@ -6,8 +6,9 @@
 
 <p> 
  ✨ Me chamo Aryane Valentim  <br />
- 🌱 Estudo e trabalho atualmente com Spring Boot(Java) e Angular (TypeScript). <br />
+ 🌱 Estudo e trabalho atualmente com Microsserviços em Spring Boot(Java) e Angular (TypeScript). <br />
  📚 Fui bolsista de iniciação científica CNPq em 2021 e 2022 na área de Microeletrônica.
+ 🏆 Aluna destaque no curso de programação do Instituto PROA no 2° semestre de 2021.
 </p>
 
 ## ⚡ Meu Github Status
