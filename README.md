@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> </h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px" height="5px"> </h1>
  
   <div>
     <img align="right" alt="Cat-coding" height="108" width="168" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif">
