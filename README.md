@@ -5,13 +5,17 @@
   </div>
 
 <p> 
- ✨ Me chamo Aryane Valentim  <br />
- 🌱 Estudo e trabalho atualmente com Angular (TypeScript) e Spring Boot(Java). <br />
- 📚 Fui bolsista de iniciação científica CNPq em 2021 e 2022 na área de Microeletrônica. <br />
- 🏆 Aluna destaque no curso de programação web do Instituto PROA no 2° semestre de 2021.
+ ✨ Hello, I'm Aryane Valentim! <br />
+ 🌱 Junior Cloud Engineer | AWS, Terraform, DevOps <br />
+ 🏆 AWS Cloud Practitioner Certified  <br />
+ 📚 Exploring Solutions Architecture | Preparing for AWS SAA-C03 Exam 
 </p>
 
-## ⚡ Meu Github Status
+
+🌱 Always eager to learn and contribute to exciting projects. Let's collaborate and build amazing things together! 🚀
+
+
+## ⚡ Github Status
 
 
   <br/>
@@ -20,13 +24,18 @@
     <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=AryaneValentim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
   <br/>
+
+<div>
+ 🔗 Connect with me:
+  - LinkedIn: https://www.linkedin.com/in/aryanevalentim/
+</div>
   
  <div> 
    <a href = "mailto:aryanevalentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
   <a href="https://www.linkedin.com/in/aryanevalentim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
 </div>
 
-## 🚀 Linguagens e ferramentas:
+## 🚀 Languages and tools:
 <div class="d-flex justify-content-between"> 
   <p align="left"> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
