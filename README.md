@@ -41,8 +41,13 @@
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> 
-      [![Terraform](https://img.shields.io/badge/Terraform-%23048e8-8A3A3A?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-      [![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Terraform-%23048e8-8A3A3A?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+</a>
+
   </p>
 </div>
 
