@@ -11,12 +11,9 @@
  📚 Exploring Solutions Architecture | Preparing for AWS SAA-C03 Exam 
 </p>
 
-
-🌱 Always eager to learn and contribute to exciting projects. Let's collaborate and build amazing things together! 🚀
-
+🚀 Always eager to learn and contribute to exciting projects. Let's collaborate and build amazing things together! 
 
 ## ⚡ Github Status
-
 
   <br/>
   <div align = "center">
@@ -24,13 +21,9 @@
     <a href="https://github.com/AryaneValentim/github-readme-stats"><img alt="Github Status" src="https://github-readme-stats.vercel.app/api?username=AryaneValentim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
   <br/>
-
-<div>
- 🔗 Connect with me:
-  - LinkedIn: https://www.linkedin.com/in/aryanevalentim/
-</div>
   
  <div> 
+  🔗 Connect with me:
    <a href = "mailto:aryanevalentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
   <a href="https://www.linkedin.com/in/aryanevalentim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
 </div>
@@ -48,6 +41,8 @@
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> 
+      [![Terraform](https://img.shields.io/badge/Terraform-%23048e8-8A3A3A?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+      [![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   </p>
 </div>
 
