@@ -41,8 +41,8 @@
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/> </a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></a> 
       <a href="https://getbootstrap.com" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> </a> 
-      <a href="https://www.terraform.io/" target="_blank"> <img height="28" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></a> 
-      <a href="https://aws.amazon.com/" target="_blank"> <img height="28" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> </a>
+      <a href="https://www.terraform.io/" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></a> 
+      <a href="https://aws.amazon.com/" target="_blank"> <img height="38" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> </a>
 
   </p>
 </div>
